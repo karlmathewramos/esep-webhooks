@@ -1,0 +1,7 @@
+C:\Users\Karlito\webhookenterprise\src\webhookenterprise\bin\Release\net6.0\publish\webhookenterprise.deps.json
+C:\Users\Karlito\webhookenterprise\src\webhookenterprise\bin\Release\net6.0\publish\webhookenterprise.runtimeconfig.json
+C:\Users\Karlito\webhookenterprise\src\webhookenterprise\bin\Release\net6.0\publish\webhookenterprise.pdb
+C:\Users\Karlito\webhookenterprise\src\webhookenterprise\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Karlito\webhookenterprise\src\webhookenterprise\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Karlito\webhookenterprise\src\webhookenterprise\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\Karlito\webhookenterprise\src\webhookenterprise\bin\Release\net6.0\publish\webhookenterprise.dll

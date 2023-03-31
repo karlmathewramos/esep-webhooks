@@ -7,7 +7,7 @@ using Newtonsoft.Json;
 
 namespace EsepWebhook;
 
-public class Function
+public class webhookenterprise
 {
     
     /// <summary>
